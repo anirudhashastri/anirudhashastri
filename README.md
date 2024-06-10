@@ -5,7 +5,7 @@ I am pursuing a Master's in Artificial Intelligence at Northeastern University, 
 Apart from my keen interest in AI, I also tinker with tech in general, from fixing PC problems to modding my car.  
 Talk to me about anything related to tech, software, AI, Star Wars, cycling (Go Peter Sagan!!!), or anything in general.
 
-You can reach me at anirudhashastri99@gmail.com
+You can reach me at anirudhashastri99@gmail.com and shastri.an@northeastern.edu
 
 Personal Website: [Anirudha Shastri](https://anirudhashastri.github.io/)
 
