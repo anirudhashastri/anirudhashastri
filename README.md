@@ -7,7 +7,7 @@ Talk to me about anything related to tech, software, AI, Star Wars, cycling (Go 
 
 You can reach me at anirudhashastri99@gmail.com
 
-personal Website: [Anirudha Shastri](https://anirudhashastri.github.io/)
+Personal Website: [Anirudha Shastri](https://anirudhashastri.github.io/)
 
 
 <!--
